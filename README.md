@@ -1,3 +1,3 @@
-# rpc-learning
+# java-learning
 
-这个项目是为了方便更好的理解rpc框架而搭建的项目，里面主要实现的功能是flink sql gateway功能，能对外提供REST ful风格，乃至rpc接口的flink sql gateway。
+这个项目是为了更好的理解java，以及java周边的生态库，自己造一些简单的轮子去学习java框架而用于个人学习的库。例如网络通信，远程方法调用等。
